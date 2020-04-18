@@ -1,0 +1,331 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+/*Nav and Cover start here*/
+#cover{
+    /* background-image: url('../images/CBG.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    background-color: #B9B9B9;
+    height:650px;
+}
+
+
+.navbar{
+    box-shadow: none;
+    background-color:#B9B9B9;
+}
+
+
+.nav-item:first-child a{
+    color:#16A085!important;
+}
+.nav-link{
+    color:black;
+    font-weight: 600;
+    
+}
+.nav-link:hover{
+    color:#16A085!important;
+}
+.cover-text{
+    width:70%;
+   padding-top: 200px;
+    text-align: center;
+}
+.cover-text h1{
+    font-size:50px;
+    font-family: sans-serif;
+    font-weight:500;
+        
+}
+.cover-text p{
+    padding-top:20px;
+}
+
+.cover-text a{
+    background-color:#16A085!important;
+}
+
+/*NAv and Cover finish here*/
+
+/*About start*/
+#about{
+background-color: #FFFFFF;    
+}
+.about-text{
+    text-align: center;}
+.about-text h1{}
+.about-text p{
+    width:60%;
+    padding-top: 10px;
+}
+.about-text img{
+    padding-top: 20px;
+}
+
+/*About Finish*/
+/*Skills Startr*/
+#skills{
+    background-image: url('../images/skills%20BG.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+    height: 600px;
+    
+}
+.skills-text{
+    width:45%;
+    margin-left: 0;
+    padding-top: 150px;
+}
+.skills-text h2{
+    margin-bottom: 50px;
+}
+.skills-text h5{
+    padding-top: 20px;
+}
+/* Progress bar */
+.barfiller {
+    width: 100%;
+    height: 12px;
+    background: #fcfcfc;
+    border: 1px solid #ccc;
+    position: relative;
+    box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
+    -moz-box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,.5);
+  }
+  
+  .barfiller .fill {
+    display: block;
+    position: relative;
+    width: 0px;
+    height: 100%;
+    background: #333;
+    z-index: 1;
+  }
+  
+  .barfiller .tipWrap { display: none; }
+  
+  .barfiller .tip {
+    margin-top: -30px;
+    padding: 2px 4px;
+    font-size: 11px;
+    color: #fff;
+    left: 0px;
+    position: absolute;
+    z-index: 2;
+    background: #333;
+  }
+  
+  .barfiller .tip:after {
+    border: solid;
+    border-color: rgba(0,0,0,.8) transparent;
+    border-width: 6px 6px 0 6px;
+    content: "";
+    display: block;
+    position: absolute;
+    left: 9px;
+    top: 100%;
+    z-index: 9
+  }
+
+/*Skills Finish*/
+/*Counter section Start*/
+#counter{
+    background-color:#16A085;
+}
+/*Counter section Finish*/
+/*Gallery Start here*/
+.gcol{
+    position: relative;
+    padding-top: 0;
+    margin-top: 0
+}
+.gimg{
+    width: 100%;
+}
+.ghover{
+    width:100%;
+    height:100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity:0;
+    padding-top: 0px;
+    padding-left:150px;
+}
+.gcol:hover .ghover{
+    width:100%;
+    height:100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity:70%;
+    padding-top: 110px;
+    padding-left:150px;
+    transition:0.5s all ease;
+}
+
+.gbtn{
+    background-color:#B9B9B9;
+    
+}
+.ggb button{
+    background-color:#16A085!important
+   }
+   .ggb button:hover{
+    background-color:#ffffff!important
+   }
+
+/*Gallery Finish*/
+/*Work process*/
+.work-text h1{}
+.work-text p{
+    width:60%
+}
+.work-video{
+    position: relative;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 200px;
+    margin-left: 500px;
+}
+
+/*Work finish*/
+/*Future start*/
+#future{
+    background-color: #B9B9B9;
+}
+.future-hover:hover{
+    background-color: #16A085;
+    border-radius: 10px;
+    color: white;
+    transition: 0.5s all ease;
+}
+/*Future FIISH*/
+/*Comment Section*/
+#comment{
+    background-color: #16A085;
+}
+.carousel-inner{
+    padding: 100px 0px;
+}
+/*Comment Finish*/
+/*Partner Startd*/
+#partner{
+    background-color: #FFFFFF;
+}
+/*Partner SFinish*/
+/*FORM START*/
+.contact-text p{
+    width:60%;
+}
+.form-btn{}
+.form-btn button{
+    background-color: #16A085;
+}
+/*FORM FINISH*/
+
+.footer-link1 a:hover{
+    color:#16A085!important;
+}
+.footer-link2 a:hover{ color:#16A085!important;}
+.footer-link3 a:hover{ color:#16A085!important;}
+
+
+
+
+
+
+
+#button {
+    display: inline-block;
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border-radius: 4px;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    transition: background-color .3s, 
+      opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+  }
+  #button::after {
+    /* content: "\f0aa";
+    font-family: FontAwesome; */
+    font-weight: normal;
+    font-style: normal;
+    font-size: 2em;
+    line-height: 50px;
+    color: #fff;
+  }
+  .fa-arrow-circle-up:hover{
+      color:white;
+  }
+  .fa-arrow-circle-up{
+      font-size:40px;
+      color: #16A085;
+      text-align: center;
+      padding-top: 3px;
+  }
+  #button:hover {
+    cursor: pointer;
+    background-color: #16A085;
+  }
+  #button:active {
+    background-color: white;
+  }
+  #button.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  /* Styles for the content section */
+  
+  .content {
+    width: 77%;
+    margin: 50px auto;
+    font-family: 'Merriweather', serif;
+    font-size: 17px;
+    color: #6c767a;
+    line-height: 1.9;
+  }
+  @media (min-width: 500px) {
+    .content {
+      width: 43%;
+    }
+    #button {
+      margin: 30px;
+    }
+  }
+  .content h1 {
+    margin-bottom: -10px;
+    color: #03a9f4;
+    line-height: 1.5;
+  }
+  .content h3 {
+    font-style: italic;
+    color: #96a2a7;
+  }
+
+
+
+
+
+
+
+  

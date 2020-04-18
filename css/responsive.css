@@ -1,0 +1,766 @@
+
+@media (min-width: 360px) and (max-width: 419.98px){
+
+    .cover-text{
+        margin-top: -180px;
+    }
+    .cover-text h1{
+        font-size:40px;
+        font-family: cursive;
+    }
+    .cover-text p{
+        font-size:13px;
+    }
+    .about-text p{
+        font-size: 16px;
+        text-align:justify;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+    }
+   
+    .gimg{
+width:100%;
+    }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:0;
+        padding-top: 0px;
+        padding-left:100px;
+    }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        padding-top: 60px;
+        padding-left:80px;
+        transition:0.5s all ease;
+    }
+    .ggb button{
+     background-color:#16A085!important
+    }
+    .ggb button:hover{
+     background-color:#ffffff!important
+    }
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 60px;
+    margin-left: 120px;
+    transform: rotate(360deg);
+}
+.partner-img img{
+    width:70px;
+
+}
+.contact-text p{
+    width:80%;
+    padding-bottom: 20px;
+}
+.footer-link1 a{text-align: center;}
+.footer-link2{
+    text-align: center;
+}
+
+.footer-link3{
+    text-align: center;
+}
+.footer-copy{
+    text-align:center;
+    display: block;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 420px) and (max-width: 479.99px){
+
+    .cover-text{
+        margin-top: -180px;
+    }
+    .cover-text h1{
+        font-size:40px;
+        font-family: cursive;
+    }
+    .cover-text p{
+        font-size:13px;
+    }
+    .about-text p{
+        font-size: 16px;
+        text-align:justify;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+    }
+   
+    .gimg{
+width: 100%;
+    }
+    .gcol{
+            padding-top: 0;
+    margin-top: 0;
+    }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:0;
+        padding-top: 0px;
+        padding-left:100px;
+    }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        padding-top: 80px;
+        padding-left:95px;
+        transition:0.5s all ease;
+    }
+    .ggb button{
+     background-color:#16A085!important
+    }
+    .ggb button:hover{
+     background-color:#ffffff!important
+    }
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 80px;
+    margin-left: 150px;
+    transform: rotate(360deg);
+}
+.partner-img img{
+    width:70px;
+
+}
+.footer-link1 a{text-align: center;}
+.footer-link2{
+    text-align: center;
+}
+
+.footer-link3{
+    text-align: center;
+}
+.footer-copy{
+    text-align:center;
+    display: block;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+@media (min-width: 480px) and (max-width: 575.98px){
+    .cover-text{
+        margin-top: -140px;
+    }
+    .cover-text h1{
+        font-size:30px;
+        font-family: cursive;
+    }
+    .cover-text p{
+        font-size:13px;
+    }
+    .about-text p{
+        font-size: 16px;
+        text-align:justify;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+    }
+   
+    .gimg{
+width: 100%;
+    }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:0;
+        padding-top: 0px;
+        padding-left:100px;
+    }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        padding-top: 80px;
+        padding-left:110px;
+        transition:0.5s all ease;
+    }
+  
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 100px;
+    margin-left: 180px;
+    transform: rotate(360deg);
+}
+.partner-img img{
+    width:70px;
+
+}
+.footer-link1 a{text-align: center;}
+.footer-link2{
+    text-align: center;
+}
+
+.footer-link3{
+    text-align: center;
+}
+.footer-copy{
+    text-align:center;
+    display: block;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .cover-text{
+        margin-top: -140px;
+    }
+    .cover-text h1{
+        font-size:35px;
+        font-family: 'Girassol', cursive;
+    }
+    .cover-text p{
+        font-size:13px;
+    }
+    .about-text p{
+        font-size: 16px;
+        text-align:justify;
+    }
+    .about-text h2{
+        font-family: 'Girassol', cursive;
+        font-size: 40px;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+        font-family: 'Girassol', cursive;
+        font-size: 40px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+        font-family: 'Girassol', cursive;
+        color: #16A085;
+    }
+   
+    .gimg{
+width: 100%;
+    }
+    .gcol{
+        padding: 0;
+    }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        opacity:0;
+
+     
+
+        }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        transition:0.5s all ease;
+        
+    }
+
+    .ghover a img{
+    }
+  
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 100px;
+    margin-left: 180px;
+    transform: rotate(360deg);
+}
+.partner-img img{
+    width:70px;
+
+}
+.footer-link1 a{text-align: center;}
+.footer-link2{
+    text-align: center;
+}
+
+.footer-link3{
+    text-align: center;
+}
+.footer-copy{
+    text-align:center;
+    display: block;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {  
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Girassol&display=swap');
+    .cover-text{
+        margin-top: -100px;
+    }
+    .cover-text h1{
+        font-size:40px;
+        font-family: 'Cinzel', serif;
+    }
+    .cover-text p{
+        font-size:17px;
+    }
+    .about-text p{
+        font-size: 17px;
+        text-align:justify;
+    }
+    .about-text h2{
+        font-family: 'Cinzel', serif;
+        font-size: 40px;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+        font-family: 'Cinzel', serif;
+        font-size: 40px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+        font-family: 'Cinzel', serif;
+        color: black;
+    }
+
+   .gimg{
+       width:100%;
+   }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        opacity:0;
+padding-top: 70px;
+padding-left: 0px;
+     
+
+        }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        transition:0.5s all ease;
+        padding-left: 180px;
+        padding-top: 120px;
+    }
+    
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text h1{
+    font-family: 'Cinzel', serif;
+    font-size:50px;
+}
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 140px;
+    margin-left: 280px;
+    transform: rotate(360deg);
+}
+.future-hover:hover{
+    background-color: #16A085;
+    border-radius: 10px;
+    color: white;
+    transition: 0.5s all ease;
+}
+.partner-img img{
+    width:15%;
+
+}
+.contact-text h1{
+    font-family: 'Cinzel', serif;
+    font-size: 50px;
+}
+.footer-link1 a{text-align: center;}
+.footer-link2{
+    text-align: center;
+}
+
+.footer-link3{
+    text-align: center;
+}
+.footer-copy{
+    text-align:left;
+    display: block;
+    width: 100%;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+    .cover-text{
+        margin-top: -100px;
+    }
+    .cover-text h1{
+        font-size:40px;
+        font-family: 'Righteous', cursive;
+    }
+    .cover-text p{
+        font-size:17px;
+    }
+    .about-text p{
+        font-size: 17px;
+        text-align:justify;
+    }
+    .about-text h2{
+        font-family: 'Righteous', cursive;
+        font-size: 40px;
+    }
+
+    #skills{
+
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-position: center;
+        
+        height: 500px;
+        
+    }
+    .skills-text{
+        width:100%;
+        margin-left: 0;
+        padding-top: 150px;
+        text-align: center;
+    }
+    .skills-text h2{
+        margin-bottom: 50px;
+        margin-top: -50px;
+        font-family: 'Righteous', cursive;
+        font-size: 40px;
+
+    }
+    .skills-text h5{
+        padding-top: 20px;
+        font-family: 'Righteous', cursive;
+        color: black;
+    }
+
+   .gimg{
+       width:100%;
+   }
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        opacity:0;
+padding-top: 70px;
+padding-left: 0px;
+     
+
+        }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        transition:0.5s all ease;
+        padding-left: 100px;
+        padding-top: 80px;
+    }
+    
+    .counter-text h6{
+        font-size:13px;
+    }
+.work-text h1{
+    font-family: 'Righteous', cursive;
+    font-size:50px;
+}
+.work-text p{
+    width:80%;
+}
+.video-logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 200px;
+    margin-left: 380px;
+    transform: rotate(360deg);
+}
+.future-hover:hover{
+    background-color: #16A085;
+    border-radius: 10px;
+    color: white;
+    transition: 0.5s all ease;
+}
+.partner-img img{
+    width:15%;
+
+}
+.contact-text h1{
+    font-family: 'Righteous', cursive;
+    font-size: 50px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1200px) { 
+
+    .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        opacity:0;
+padding-top: 70px;
+padding-left: 0px;
+     
+
+        }
+    .gcol:hover .ghover{
+        width:100%;
+        height:100%;
+        background-color: black;
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity:70%;
+        transition:0.5s all ease;
+        padding-left: 140px;
+        padding-top: 100px;
+    }
+}

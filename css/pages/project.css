@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+    
+}
+.navbar-brand img:hover{
+    transform: rotate3d(360deg);
+    
+}
+.nav-link:hover{
+    color: #16A085;
+    font-weight: 600;
+    
+}
+.light{}
+.light-text{
+    padding-top: 80px;
+    width: 70%;
+}

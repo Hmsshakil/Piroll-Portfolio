@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+    
+}
+.navbar-brand img:hover{
+    transform: rotate3d(360deg);
+    
+}
+.nav-link:hover{
+    color: #16A085;
+    font-weight: 600;
+    
+}
+.c-text{
+    width: 80%;
+    margin-left: 0;
+    padding-top: 50px;
+}
+#contact{
+    background-color:#A6B2A8;
+}
+#maps{
+    background-color: #A6B2A8;
+}
+
+   #map {
+      width: 100%;
+      height: 400px;

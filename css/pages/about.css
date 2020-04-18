@@ -1,0 +1,62 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+.nav-link{
+color:black;
+    font-weight: 600;
+}
+.nav-link:hover{
+    color:#16A085;
+}
+#me{
+    background-image: url('../img/mee.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    background-position: center;
+  
+}
+.me-text{
+    padding-top: 120px;
+}
+.me-text h1{
+    font-size:7vw;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color:#ffffff;
+}
+.me-text p{
+    color:#ffffff;
+}
+#counter{
+    background-color:#16A085;
+}
+.myimg img{
+filter: blur(10px);
+    filter: brightness(100)
+}
+.aboutme-text{
+    padding-top: 100px;
+    width: 80%;
+    margin-right: 0;
+}
+.aboutme-text h1{
+    margin-left: 0;
+    width: 80%
+}
+.aboutme-text p{
+    padding-top: 20px;
+    width: 80%;
+    margin-left: 0;
+}
+.abtimg{
+    padding-top: 20px;
+    width: 80%;
+    padding-bottom: 10px;
+}
+#project{
+    background-color:#A6B2A8;
+    padding: 50px 0px;
+}
